@@ -6,7 +6,7 @@ import numpy as np
 st.set_page_config(page_title="Clasificador de Imágenes", page_icon="🧠")
 
 st.title("Clasificador de Imágenes - CNN")
-st.caption("Desarrollado por [Tu Nombre] - UTH - Computación en la Nube")
+st.caption("Desarrollado por Diego Flores - UTH - Computación en la Nube")
 
 clases = ['camiseta', 'pantalon', 'sueter', 'vestido', 'abrigo',
           'sandalia', 'camisa', 'tenis', 'bolso', 'bota']
